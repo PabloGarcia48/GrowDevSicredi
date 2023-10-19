@@ -1,0 +1,32 @@
+* {
+    margin: 0px;
+}
+
+nav {
+    background-color: rgb(94, 141, 212);
+    float: left;
+    width: 30%;
+    height: 100vh;
+    text-align: center;
+}
+
+main {
+    background-color: rgba(190, 195, 199, 0.777);
+    float: right;
+    width: 70%;
+    height: 100vh;
+}
+
+h2 {
+    padding: 10px;
+}
+
+img {
+    max-width: 200px;
+    border-radius: 100px;
+    margin-top: 80px;
+}
+
+p {
+    margin-top: 20px;
+}
