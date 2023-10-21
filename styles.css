@@ -37,7 +37,7 @@ nav {
     border: 3px solid #67A4DD;
 }
 
-.button {
+.button, .button-clicked {
     background-color: #67A4DD;
     width: 180px;
     height: 30px;
@@ -49,6 +49,10 @@ nav {
 }
 
 .button:hover {
+    background-color: #67a4dd7e;
+}
+
+.button-clicked {
     background-color: #67a4dd7e;
 }
 
